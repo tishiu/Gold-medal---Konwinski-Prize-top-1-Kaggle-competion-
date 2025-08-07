@@ -1,4 +1,4 @@
-# Konwinski Prize - Gold Medal (6th Place) Solution - Team of 2
+# Konwinski Prize - Gold Medal (top 1%) Solution - Team of 2
 Explore more in: https://www.kaggle.com/tishiu
 <img width="1000" height="56" alt="image" src="https://github.com/user-attachments/assets/d5987a72-6843-4836-957e-51bebb509325" />
 This competition was all about building AI that can fix real bugs from GitHub. The tricky part was making sure the fixes actually worked without breaking anything. Since the test set was hidden, it really tested how well your system could generalize and handle real-world code.
